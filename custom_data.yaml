@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/TomatoDetection/custom_dataset/train/images 
+val: /content/drive/MyDrive/TomatoDetection/custom_dataset/val/images
+test: /content/drive/MyDrive/TomatoDetection/custom_dataset/test/images
+
+nc: 1
+names: ['PlantaTomate']
