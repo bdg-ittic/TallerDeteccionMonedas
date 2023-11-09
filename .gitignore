@@ -1,3 +1,4 @@
 yolov8x.pt
 yolov8s.pt
 /custom_dataset
+/runs/detect
