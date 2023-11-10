@@ -1,8 +1,8 @@
-path: "/workspaces/PruebaTaller/custom_dataset/"
+path: "/workspaces/TallerDeteccionMonedas/custom_dataset/"
 
 train: train/images 
 val: valid/images
 test: test/images
 
-nc: 1
-names: ['PlantaTomate']
+nc: 5
+names: ['Moneda100', 'Moneda1000', 'Moneda200', 'Moneda50', 'Moneda500']
